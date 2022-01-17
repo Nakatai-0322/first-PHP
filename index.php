@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xml:lang="ja" lang="ja">
+<html lang="ja">
 <head>
     <title>PHP Hello</title>
 </head>
